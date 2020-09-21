@@ -1,0 +1,107 @@
+* {
+    box-sizing: border-box;
+  }
+  
+body{
+    margin: 0;
+    padding: 2vw 3vw;
+    font-family: 'Open Sans', sans-serif;
+}
+.header{
+    height: 50vw;
+   }
+.half-width{
+    width: 40%;
+    float: left;
+    text-align: justify;
+}
+.half-width img{
+    width: 100%;
+    }
+h2{
+    font-size: 2.5vw;
+    }
+p{
+    font-size: 1.5vw;
+}
+span{
+    font-size: 4vw;
+    color: #EC4C7A;
+    font-weight: 1000;
+}
+.text{
+    margin: 10vw 0 5vw 10vw;
+}
+.header a{
+    margin-top: 3vw;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#EC4C7A, #EC4C77);
+    padding: 1vw 2vw;
+    border-radius: 1vw;
+    color: white;
+    font-weight: bold;
+    }
+.biograghy{
+    height: 50vw;
+    padding-bottom: 20px;
+    }
+.latest-work{
+    margin-top: 10vw;
+    }
+.latest-work h2{
+    text-align: center;
+}
+.work-img{
+    padding: 5%;    
+}
+.work-img img{
+   width: 28%;
+   margin: 2%;
+}
+.Buttom{
+    position: relative;  
+    text-align: center;
+    line-height: 2vw;
+    
+}
+.opinion{
+    margin: auto;
+    width: 30vw;
+    margin-top: 8vw;
+}
+.opinion h2{
+    
+}
+.opinion h3{
+    padding-top: 4vw;
+    font-size: 1.5vw;
+}
+.opinion span{
+    font-size: 1vw;
+    color: gray;
+}
+.message{
+    font-size: 1.5vw;
+    margin: auto;
+    width: 50vw;
+    padding-bottom: 1.5vw;
+    border: 1vw solid#EC4E8C;
+    border-radius: 1vw;
+    background-color:#EC4E8C;
+    color: white;
+    margin-top: 5vw;
+    line-height: 3vw;
+    }
+.email{
+        font-size: 2.25vw;
+        color: white;
+    }
+.footer{
+    text-align: center;
+    font-size: 0.8vw;
+    margin-top: 10vw;
+    margin-bottom: 3vw;
+    color: gray;
+}
